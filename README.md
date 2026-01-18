@@ -1,3 +1,3 @@
 # Game of Life
 
-![](./demo.gif)
+![demo](https://github.com/PavloShutz/game-of-life/blob/master/demo.gif)
